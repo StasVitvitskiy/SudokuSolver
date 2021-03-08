@@ -1,0 +1,3 @@
+export const puzzle2 = JSON.parse(`[null,null,1,null,null,6,2,null,null,null,null,null,null,5,null,null,null,null,0,3,6,1,null,null,null,4,7,null,6,8,null,null,null,null,null,null,null,4,null,null,8,5,null,null,null,null,null,0,null,null,4,1,null,2,null,null,null,6,null,null,null,2,8,null,null,null,null,null,1,0,null,null,3,null,null,null,null,null,null,1,null]`)
+
+export const solution2 = JSON.parse(`[8,5,1,4,7,6,2,3,0,7,2,4,0,5,3,8,6,1,0,3,6,1,2,8,5,4,7,2,6,8,7,1,0,4,5,3,1,4,3,2,8,5,7,0,6,5,7,0,3,6,4,1,8,2,4,1,5,6,0,7,3,2,8,6,8,2,5,3,1,0,7,4,3,0,7,8,4,2,6,1,5]`)
